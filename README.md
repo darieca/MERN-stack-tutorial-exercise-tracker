@@ -1,11 +1,11 @@
-# List of dependencies
+## List of dependencies
 * Frontend
-** npx create-react-app 
-** npm i react-router-dom bootstrap react-date-picker
+    * npx create-react-app 
+    * npm i react-router-dom bootstrap react-date-picker
 
 * Backend
-** npm init -y
-** npm i cors express axios mongoose dotenv node nodemon
+    * npm init -y
+    * npm i cors express axios mongoose dotenv node nodemon
 
 -----------
 
