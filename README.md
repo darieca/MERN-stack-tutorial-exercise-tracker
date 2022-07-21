@@ -1,7 +1,7 @@
 ## List of dependencies
 * Frontend
     * npx create-react-app 
-    * npm i react-router-dom bootstrap react-date-picker
+    * npm i react-router-dom bootstrap react-date-picker react react-scripts web-vitals react-dom
 
 * Backend
     * npm init -y
