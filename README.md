@@ -11,6 +11,9 @@
 this is a commit from main
 this is a commit from branch2
 -----------
+person 3 did this commit
+------------
+
 
 person did a comiot here
 
