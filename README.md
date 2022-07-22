@@ -9,6 +9,7 @@
 
 ------------
 this is a commit from main
+this is a commit from branch2
 -----------
 
 
